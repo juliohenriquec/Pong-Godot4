@@ -1,0 +1,14 @@
+AudioStreamPlayer2D
+Button
+Label
+Sprite2D
+Node2D
+VBoxContainer
+MarginContainer
+Timer
+CanvasLayer
+CollisionShape2D
+Area2D
+StaticBody2D
+ColorRect
+CharacterBody2D
