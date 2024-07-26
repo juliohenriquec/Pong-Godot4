@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1704551089
+::res://::1719517151
 export_presets.cfg::TextFile::-1::1704466959::0::1::::<><>::
 icon.svg::CompressedTexture2D::1323907269977581960::1704285656::1704285659::1::::<><>::
 ::res://assets/::1704466939
@@ -13,12 +13,12 @@ index.icon.png::CompressedTexture2D::46048751183048695::1704466832::1704466889::
 index.png::CompressedTexture2D::8550115418425439434::1704466832::1704466889::1::::<><>::
 ::res://export/linux/::1704466801
 ::res://export/windows/::1704466958
-::res://scenes/::1704511607
+::res://scenes/::1704558481
 controles.tscn::PackedScene::1700413024582752711::1704467295::0::1::::<><>::res://scripts/controles.gd<>uid://pucgh0qbmij::::res://assets/Bg.png<>uid://cwd1tkm36irny::::res://assets/pixel_font.ttf
-main.tscn::PackedScene::178234415407470656::1704511607::0::1::::<><>::uid://pucgh0qbmij::::res://assets/Bg.png<>uid://cwd1tkm36irny::::res://assets/pixel_font.ttf<>res://scripts/main.gd<>res://scripts/player.gd<>res://scripts/cpu.gd<>res://scripts/ball.gd<>uid://bswbd3w1vra6e::::res://sound/snd_boing.ogg<>uid://c2dr04ekcp2as::::res://sound/correct-choice-43861.mp3
+main.tscn::PackedScene::178234415407470656::1704558481::0::1::::<><>::uid://pucgh0qbmij::::res://assets/Bg.png<>uid://cwd1tkm36irny::::res://assets/pixel_font.ttf<>res://scripts/main.gd<>res://scripts/player.gd<>res://scripts/cpu.gd<>res://scripts/ball.gd<>uid://bswbd3w1vra6e::::res://sound/snd_boing.ogg<>uid://c2dr04ekcp2as::::res://sound/correct-choice-43861.mp3
 menu.tscn::PackedScene::1411679953314432531::1704467295::0::1::::<><>::res://scripts/menu.gd<>uid://pucgh0qbmij::::res://assets/Bg.png<>uid://cwd1tkm36irny::::res://assets/pixel_font.ttf
-::res://scripts/::1704511175
-ball.gd::GDScript::-1::1704393719::0::1::::<>CharacterBody2D<>::
+::res://scripts/::1704556976
+ball.gd::GDScript::-1::1704556976::0::1::::<>CharacterBody2D<>::
 controles.gd::GDScript::-1::1704471015::0::1::::<>Control<>::
 cpu.gd::GDScript::-1::1704511175::0::1::::<>StaticBody2D<>::
 main.gd::GDScript::-1::1704510209::0::1::::<>Sprite2D<>::
